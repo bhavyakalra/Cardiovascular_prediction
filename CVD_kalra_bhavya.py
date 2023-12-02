@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-import plotly as px
+import plotly.express as px
 colors = px.colors.sequential.Plasma_r
 
 import pickle
