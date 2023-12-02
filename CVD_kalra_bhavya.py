@@ -6,10 +6,6 @@ colors = px.colors.sequential.Plasma_r
 
 import pickle
 
-# Warnings
-import warnings 
-warnings. filterwarnings('ignore')
-
 #Streamlit
 import streamlit as st
 
