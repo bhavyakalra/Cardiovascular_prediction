@@ -1,31 +1,10 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 import plotly.express as px
-import plotly.subplots as sp
-import plotly.graph_objs as go
-import matplotlib.pyplot as plt
 colors = px.colors.sequential.Plasma_r
 
 import pickle
-
-# Preprocessing
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.preprocessing import LabelEncoder
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-from imblearn.over_sampling import SMOTE
-
-# Models
-from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
-from xgboost import XGBClassifier
-
-# Metrics
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, classification_report
-from sklearn.metrics import roc_curve, auc
 
 # Warnings
 import warnings 
@@ -33,7 +12,6 @@ warnings. filterwarnings('ignore')
 
 #Streamlit
 import streamlit as st
-st.set_option('deprecation.showPyplotGlobalUse', False)
 
 
 
