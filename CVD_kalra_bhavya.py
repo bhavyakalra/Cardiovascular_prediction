@@ -12,7 +12,7 @@ import streamlit as st
 
 
 # Loading the data
-df = pd.read_csv("/Users/bhavyakalra/Desktop/Informatics/Final Project/CVD_cleaned.csv")
+df = pd.read_csv("CVD_cleaned.csv")
 
 # Display a subset of the data using st.dataframe
 st.title('Cardiovascular Disease Dataset')
