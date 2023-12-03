@@ -63,9 +63,9 @@ After removing the outliers
 
 - The risk factor analysis revealed that people who have a poor health have more chances of heart disease.
 
-- In terms of gender, the data shows a high ratio of male diagnosed with heart disease and they have a bit hight bmi as compared to females
+- In terms of gender, the data shows a high ratio of male diagnosed with heart disease and they have a bit high BMI as compared to female.
 
-- According to age groups, the elderly poeple have the highest count for heart disease. However, mid aged people having heart disease tend to have a higher bmi
+- According to age groups, the elderly poeple have the highest count for heart disease. However, mid aged people having heart disease tend to have a higher BMI
 
 - In terms of exercise, it doesn't play a significant role. However, smoking is an important factor for heart disease poeple.
 
