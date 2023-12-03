@@ -1,5 +1,11 @@
 # Cardiovascular Diseases Risk Prediction
 
+## Link to the web app: https://cardiovascularprediction.streamlit.app
+
+# Github does not permit file size more than 100mb, my model_rf.zip file has the model saved which can be run on local streamlit server but cannot run on community cloud.
+
+
+
 ## Problem Statement :
 
 - Heart disease continues to be a significant global health concern, impacting millions of lives and posing a substantial burden on healthcare systems. Early detection and accurate prediction of heart disease play a crucial role in managing and preventing its onset, as well as improving patient outcomes. Over the years, advancements in medical research, technology, and data analysis have significantly enhanced our understanding of heart disease prediction. This brief introduction aims to provide an overview of the progress made in this field, highlighting key methodologies and approaches utilized in predicting heart disease. By exploring the various risk factors, diagnostic tools, and emerging trends, we can gain valuable insights into the evolving landscape of heart disease prediction, paving the way for more proactive and personalized healthcare strategies.
