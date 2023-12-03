@@ -2,7 +2,7 @@
 
 ## Link to the web app: https://cardiovascularprediction.streamlit.app
 
-# Github does not permit file size more than 100mb, my model_rf.zip file has the model saved which can be run on local streamlit server but cannot run on community cloud.
+#### Github does not permit file size more than 100mb, my model_rf.zip file has the model saved which can be run on local streamlit server but cannot run on community cloud.
 
 
 
