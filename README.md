@@ -91,7 +91,7 @@ After removing the outliers
 - These findings highlight the value of risk assessment and tailored interventions in public health initiatives. We can improve disease prevention and treatment by incorporating these observations into clinical practices, which will ultimately result in improved health outcomes on a larger scale.
 
 
-
+#
 ## Algorithm behind the streamlit web app is based on the findings from Exploratory Data Analysis, and feature engineering done on the BMI column. It also showcases the prediction model running on the Random Forest classifier to identity whether a person is prone to heart disease or not by taking all the factors in affect.
 
 
