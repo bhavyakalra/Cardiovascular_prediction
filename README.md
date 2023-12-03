@@ -92,6 +92,28 @@ After removing the outliers
 
 
 
+## Algorithm behind the streamlit web app is based on the findings from Exploratory Data Analysis, and feature engineering done on the BMI column. It also showcases the prediction model running on the Random Forest classifier to identity whether a person is prone to heart disease or not by taking all the factors in affect.
+
+
+## Tools Used: 
+Streamlit Installation: I installed Streamlit to create a user-friendly web interface for my project.
+
+Pandas and NumPy Usage: I used Pandas for data manipulation and NumPy for numerical operations on the dataset.
+
+Choice of Regression Model Library: I selected a regression model library such as Scikit-learn, Logistic regression,Random forest classifier to build my prediction model.
+
+Data Visualization with Matplotlib/plotly: I employed Matplotlib and plotly for effective data visualization, enabling me to present insights and results clearly.
+
+Dataset Integration: I loaded my dataset into the app, ensuring it was in a format compatible with my chosen regression model.
+
+Implementing User Input Handling: I developed features for users to input values interactively, facilitating dynamic model predictions.
+
+Regression Model Training and Evaluation: I trained my regression model using the dataset and evaluated its performance, showcasing relevant metrics to users.
+
+Displaying Model Predictions: I allowed users to see model predictions based on their input, providing a practical application of the regression model.
+
+Documentation Creation: I provided clear comments in my code and, if necessary, created a readme file to explain how to run and interact with my app.
+
 
 
 
